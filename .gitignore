@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
+catboost_info/*
 sample_submission.csv
 submission*
 test.csv
